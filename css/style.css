@@ -92,7 +92,7 @@ footer {
 
 section {
      padding: 1.3em;
-  background-color: #ECCA9B; }
+     background-color: #ECCA9B; }
 
 
 p { 
@@ -113,6 +113,7 @@ p {
 
 .index-p2 {
   font-size: 1em;
+
 }
 
 .index-p3 {
@@ -146,6 +147,7 @@ width: 60em;
 text-decoration: none;
 color: brown;
 
+
 }
 
 
@@ -165,5 +167,13 @@ table, th, td {
 th, td {
   padding: 1em; }
 
+.table-2 {
+width: 60em;
+text-decoration: none;
+color: brown;
+}
 
-   
+.index-href {
+  color: rgb(#0000);
+}
+
